@@ -3,7 +3,7 @@ This library contains material/algorithms etc. that are posted online (mostly th
 
 <h2>Algorithms</h2>
 
-Algoritmic implementations: https://github.com/kennyledet/Algorithm-Implementations
+Algorithmic implementations: https://github.com/kennyledet/Algorithm-Implementations
 
 The master of algorithms repository in many languages:
 http://rosettacode.org/wiki/Rosetta_Code
