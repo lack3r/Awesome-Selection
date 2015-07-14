@@ -8,5 +8,5 @@ Algoritmic implementations: https://github.com/kennyledet/Algorithm-Implementati
 The master of algorithms repository in many languages:
 http://rosettacode.org/wiki/Rosetta_Code
 
-A lot of basic algorithms are implemeted hereas a part of a CS book in Java This is actually awesome). Data structures and basic algorihms are implemented by the book authors:
+A lot of basic algorithms and data structures are implemented by the "Introduction to programming in Java" book authors (Great Resources):
 http://introcs.cs.princeton.edu/java/code/
