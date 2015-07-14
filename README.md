@@ -1,7 +1,7 @@
 # Awesome-Selection
 This library contains material/algorithms etc. that are posted online (mostly through online courses, blogs, books) and I find particular interesting.
 
-**Algorithms
+<h2>Algorithms<h2>
 
 Algoritmic implementations: https://github.com/kennyledet/Algorithm-Implementations
 
