@@ -3,6 +3,9 @@ This library contains material/algorithms etc. that are posted online (mostly th
 
 <h2>Algorithms</h2>
 
+From Google - Guide for Technical Development :
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+
 Algorithmic implementations: https://github.com/kennyledet/Algorithm-Implementations
 
 The master of algorithms repository in many languages:
